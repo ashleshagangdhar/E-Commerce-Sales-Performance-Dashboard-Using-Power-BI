@@ -14,8 +14,7 @@ Developed an interactive Power BI Sales Dashboard to analyze sales, profit, and 
 - Interactive Filters and Slicers
 - KPI Tracking Dashboard
 
-## Project Screenshots
-(Add dashboard screenshots here)
+
 
 ## Author
 Ashlesha Gangdhar
